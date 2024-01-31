@@ -507,13 +507,21 @@
         margin-right: 0;
         font-size: 1.7rem;
     }
+
+    button.filter-element {
+      padding: 5px 5px;
+  }
   
     .sub-filter a {
         font-size: 1.2rem;
     }
   
     .fa-money-bill-wave, .fa-person, .fa-heart, .fa-fire {
-        font-size: 1em;
+        font-size: 13px;
+    }
+
+    span{
+      font-size: 10px;
     }
   
   /**** Hébergements Populaires ****/
